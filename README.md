@@ -22,7 +22,7 @@ pip install pandas
 
 ## Overview
 
-** Please run the trending_word_getter.py firstly, then run the related_city_mining.ipynb **
+######  Please run the trending_word_getter.py firstly, then run the related_city_mining.ipynb 
 
 The trending_word_getter.py is used to crawling the trending word from the twitter. 
 
